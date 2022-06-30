@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\bin\Debug\net5.0\LearningAlgo.exe
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\bin\Debug\net5.0\LearningAlgo.deps.json
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\bin\Debug\net5.0\LearningAlgo.runtimeconfig.json
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\bin\Debug\net5.0\LearningAlgo.runtimeconfig.dev.json
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\bin\Debug\net5.0\LearningAlgo.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\bin\Debug\net5.0\ref\LearningAlgo.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\bin\Debug\net5.0\LearningAlgo.pdb
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\obj\Debug\net5.0\LearningAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\obj\Debug\net5.0\LearningAlgo.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\obj\Debug\net5.0\LearningAlgo.AssemblyInfo.cs
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\obj\Debug\net5.0\LearningAlgo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\obj\Debug\net5.0\LearningAlgo.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\obj\Debug\net5.0\ref\LearningAlgo.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\obj\Debug\net5.0\LearningAlgo.pdb
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\obj\Debug\net5.0\LearningAlgo.genruntimeconfig.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LearningAlgo\LearningAlgo\obj\Debug\net5.0\LearningAlgo.csproj.AssemblyReference.cache
